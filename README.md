@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/y0gesh6908/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/y0gesh6908/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/y0gesh6908/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Dynamic Programming
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1513-number-of-substrings-with-only-1s](https://github.com/y0gesh6908/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/y0gesh6908/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
