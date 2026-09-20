@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1513-number-of-substrings-with-only-1s](https://github.com/y0gesh6908/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/y0gesh6908/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
