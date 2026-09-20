@@ -69,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Graph Theory
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/y0gesh6908/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/y0gesh6908/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
