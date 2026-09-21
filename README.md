@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/y0gesh6908/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Greedy
 |  |
 | ------- |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/y0gesh6908/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 <!---LeetCode Topics End-->
