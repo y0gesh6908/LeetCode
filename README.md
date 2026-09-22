@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/y0gesh6908/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/y0gesh6908/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -86,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
