@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3524-find-x-value-of-array-i](https://github.com/y0gesh6908/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -17,16 +18,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Sorting
 |  |
 | ------- |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Math
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/y0gesh6908/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/y0gesh6908/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/y0gesh6908/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/y0gesh6908/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 ## Dynamic Programming
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
