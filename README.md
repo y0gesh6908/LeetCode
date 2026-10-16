@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/y0gesh6908/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/y0gesh6908/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Geometry
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/y0gesh6908/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
 ## Backtracking
 |  |
 | ------- |
