@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/y0gesh6908/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/y0gesh6908/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/y0gesh6908/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/y0gesh6908/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/y0gesh6908/LeetCode/tree/master/3524-find-x-value-of-array-i) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/y0gesh6908/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/y0gesh6908/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/y0gesh6908/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/y0gesh6908/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/y0gesh6908/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/y0gesh6908/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/y0gesh6908/LeetCode/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -230,4 +236,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/y0gesh6908/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/y0gesh6908/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
