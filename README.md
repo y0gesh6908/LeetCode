@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1642-furthest-building-you-can-reach](https://github.com/y0gesh6908/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/y0gesh6908/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/y0gesh6908/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/y0gesh6908/LeetCode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1642-furthest-building-you-can-reach](https://github.com/y0gesh6908/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/y0gesh6908/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/y0gesh6908/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/y0gesh6908/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/y0gesh6908/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/y0gesh6908/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Enumeration
 |  |
