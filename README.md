@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/y0gesh6908/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/y0gesh6908/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/y0gesh6908/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/y0gesh6908/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/y0gesh6908/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/y0gesh6908/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/y0gesh6908/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/y0gesh6908/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/y0gesh6908/LeetCode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
