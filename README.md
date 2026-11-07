@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/y0gesh6908/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1642-furthest-building-you-can-reach](https://github.com/y0gesh6908/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/y0gesh6908/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/y0gesh6908/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/y0gesh6908/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/y0gesh6908/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/y0gesh6908/LeetCode/tree/master/1616-split-two-strings-to-make-palindrome) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/y0gesh6908/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
