@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/y0gesh6908/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/y0gesh6908/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/y0gesh6908/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/y0gesh6908/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y0gesh6908/LeetCode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/y0gesh6908/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/y0gesh6908/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/y0gesh6908/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -217,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/y0gesh6908/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/y0gesh6908/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/y0gesh6908/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/y0gesh6908/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/y0gesh6908/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/y0gesh6908/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/y0gesh6908/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/y0gesh6908/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/y0gesh6908/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -330,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/y0gesh6908/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
