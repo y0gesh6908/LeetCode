@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/y0gesh6908/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/y0gesh6908/LeetCode/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/y0gesh6908/LeetCode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/y0gesh6908/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/y0gesh6908/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/y0gesh6908/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y0gesh6908/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/y0gesh6908/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/y0gesh6908/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Graph Theory
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/y0gesh6908/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1642-furthest-building-you-can-reach](https://github.com/y0gesh6908/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1882-process-tasks-using-servers](https://github.com/y0gesh6908/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/y0gesh6908/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/y0gesh6908/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/y0gesh6908/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
